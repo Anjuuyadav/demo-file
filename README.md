@@ -1,4 +1,6 @@
 # demo-file
 this is my first file on github
 <br>
-author:anjuyadav
+author:anjuyadav(learning git and gthub from apna college)
+
+<hr>
